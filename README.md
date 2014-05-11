@@ -14,7 +14,7 @@ When you load the page, the first image in each slide will be selected and added
 
 ###Controls
 
-Press 'f' to make the slides go full screen.
-Press 'esc' to exit fullscreen
-Press the left and right arrow keys to progress through your slides
-Or use the mouse to click through them.
++ Press 'f' to make the slides go full screen.
++ Press 'esc' to exit fullscreen
++ Press the left and right arrow keys to progress through your slides
++ Or use the mouse to click through them.
